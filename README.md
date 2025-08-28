@@ -1,1 +1,6 @@
-# Our code implementations and usage instructions of our proposed MFA methods
+# Membership Fabrication Attacks
+
+__Enviroment Construction__
+```
+pip install -r requirements.txt
+```
